@@ -85,6 +85,8 @@ Scikit-Learn
 
 Jupyter Notebook
 
+Note - Their are some bugs and I am fixing it , so stay tuned
+
 
 
 
