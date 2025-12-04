@@ -92,10 +92,3 @@ Note - Their are some bugs and I am fixing it , so stay tuned
 
 
 
-
-
-
-
-
-
-Note - Their are some bugs and I am fixing it , so stay tuned
