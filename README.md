@@ -84,3 +84,16 @@ Feel free to fork the repo, create issues, or submit pull requests.
 Scikit-Learn
 
 Jupyter Notebook
+
+
+
+
+
+
+
+
+
+
+
+
+Note - Their are some bugs and I am fixing it , so stay tuned
